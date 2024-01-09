@@ -1,7 +1,7 @@
-## Olá! Eu sou a Luana 👋
+## Olá! Eu sou a Luana 🌼
 
-- 👩‍💻 Estudante de Ciências da Computação
-- 🚀 Atualmente estagiando na área de TI
+- 📚 Estudante de Ciências da Computação na Universidade de Brasília
+- 💻 Atualmente estagiando na área de TI
 - 🐱 Amante de gatos 
 
 
