@@ -1,14 +1,13 @@
-# Olá! Eu sou a Luana 👋
+## Olá! Eu sou a Luana 👋
 
-## Sobre Mim
 - 👩‍💻 Estudante de Ciências da Computação
 - 🚀 Atualmente estagiando na área de TI
 - 🐱 Amante de gatos 
 
-## 
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luacrz&show_icons=true&theme=aura_dark" alt="Luana's GitHub Stats" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luacrz&layout=compact&theme=aura_dark" alt="Luana's Top Languages" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=luacrz&show_icons=true&theme=aura_dark" alt="Luana's GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luacrz&layout=compact&theme=aura_dark" alt="Luana's Top Languages" width="34.5%">
 </p>
 
 
