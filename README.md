@@ -5,10 +5,10 @@
 - 🐱 Amante de gatos 
 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luacrz&show_icons=true&theme=aura_dark" alt="Luana's GitHub Stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luacrz&layout=compact&theme=aura_dark" alt="Luana's Top Languages" width="37%">
-</p>
+</p> -->
 
 
 
