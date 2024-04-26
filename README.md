@@ -9,6 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luacrz&show_icons=true&theme=aura_dark" alt="Luana's GitHub Stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luacrz&layout=compact&theme=aura_dark" alt="Luana's Top Languages" width="37%">
 </p> -->
+<div style="float: left; margin-right: 10px;">
+  <img src="ghibli.gif" alt="Luana's Gato GIF">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
