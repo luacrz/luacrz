@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luacrz&layout=compact&theme=aura_dark" alt="Luana's Top Languages" width="37%">
 </p> -->
 <div style="float: left; margin-right: 10px;">
-  <img src="ghibli.gif" alt="Luana's Gato GIF">
+  <img src="totoro.gif" alt="Luana's Gato GIF" width="150" height="150">
 </div>
 
 <div style="display: inline_block"><br>
